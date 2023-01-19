@@ -17,3 +17,6 @@ The human should compare the issued number with his/her hidden number and first 
 After filling out those two fields, the program will open a larger edit box to let the human to enter a number as an attempt to guess the computer's hidden number. Once a number is entered the computer will immediately show the resulting numbers of cows and bulls from a comparison of the entered number with its hidden number.
 
 The game lasts as long as one of the players guesses the hidden number (i.e. gets N number of bulls of N-digit number). The digit '0' is equivalent to other digits and may appear in the first position.
+
+## Snapshots
+![Snapshot](https://github.com/davhak/game-bulls_and_cows/blob/main/snapshot.jpg?raw=true)
