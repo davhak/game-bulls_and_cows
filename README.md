@@ -2,7 +2,7 @@
 A past century game of guessing opponent's 3, 4 or 5 digit number
 
 ## Description
-This game was written in 1999 and is placed here for memory of the good old days.
+The game was written in 1999 and is placed here for memory of the good old days.
 The game represents a Windows GUI application where a human and computer hide some digit number (3, 4 or 5 digits) and try to guess the opponent's number earlier than the opponent does. The game also runs in Linux with Wine installed.
 
 ## How to start
